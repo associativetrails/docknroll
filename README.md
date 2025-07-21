@@ -13,8 +13,8 @@
 - Starts Docker Desktop (and waits for it)
 - Opens the Docker Dashboard
 - Spins up your dev containers with `docker-compose`
-- Launches your project in your chose browser, as along with web-base documentation (with multiple tabs, if you want)
-- Opens Terminal windows sized and positioned for your workflow
+- Launches your project in your chosen browser, along with useful web-based documentation and reference materials (with multiple tabs, if you want)
+- Opens Terminal windows sized and colour-coded for your workflow
 - Mounts network drives or opens code editors, if configured
 
 All with **one double-click** or Automator trigger.
@@ -35,11 +35,11 @@ All with **one double-click** or Automator trigger.
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/docknroll.git
+   git clone https://github.com/associativetrails/docknroll.git
    ```
 
 2. **Copy the scripts you want**
-   Add copies of __launch.sh and __connect_to_live.sh to your code directory
+   Add copies of `__launch.sh` and `__connect_to_live.sh` to your code directory
 
 
 3. **Make the script executable**
